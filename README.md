@@ -1,3 +1,3 @@
 # programApagar
 este es un programa escrito en java, el cual sirve para visualiza las opciones de apagar, y reiniciar el pc
-https://raw.githubusercontent.com/parzibyte/WaterPy/master/apagar.png
+https://github.com/iutria/programApagar/blob/master/apagar.png
